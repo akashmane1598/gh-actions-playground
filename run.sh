@@ -1,2 +1,2 @@
-export CURRENT_BRANCH=ipl-dashboard
-./node_modules/.bin/ts-node validate.ts
+export CURRENT_BRANCH=dashboards
+./node_modules/.bin/ts-node-esm validate.ts
